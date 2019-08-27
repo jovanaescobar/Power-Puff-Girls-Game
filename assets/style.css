@@ -1,0 +1,63 @@
+h1 {
+    font-size: 30px; float: left;
+    font-family: cursive;
+  letter-spacing: -1.4px;
+  word-spacing: 0.4px;
+  color: #FFFFFF;
+  background: #F7C1C1;
+  text-shadow: 4px 2px 0px #7A7A7A;
+  color: #FFFFFF;
+  background: #F7C1C1; 
+  width: 100%; 
+  }
+  
+  h3 {
+    color: purple;
+  }
+  
+  
+  body, html {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-image: url(https://c.wallhere.com/photos/35/db/Mojo_Jojo_Powerpuff_Girls_villains_minimalism_solid_color-25761.jpg!d)
+  
+  }
+  
+  #triviaQuestions {
+    color: azure; 
+    font-family: fantasy; 
+  }
+  
+  #timer {
+    color: lightgreen;
+  }
+  
+  #triviaResults {
+    font-family: fantasy;
+    color: azure; 
+  }
+  
+  
+  .container {
+    text-align: right;
+    width: 50%;
+    height: 100%;
+    border: 30px;
+  }
+  
+  
+   button { 
+    border: none;
+    font-size: 50px;
+    font-family: cursive; 
+    font-size: 25px;
+  letter-spacing: -1.4px;
+  word-spacing: 0.4px;
+  color: #FFFFFF;
+  background: #F7C1C1;
+  text-shadow: 4px 3px 0px #7A7A7A;
+  color: #FFFFFF;
+  background: #F7C1C1;   
+  } 

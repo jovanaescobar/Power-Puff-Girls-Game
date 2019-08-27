@@ -1,0 +1,45 @@
+<html>
+<head>
+  <title>Power Puff Girls Trivia Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header class="title">
+     <h1>Power Puff Girls Trivia</h1>
+     
+    </header>
+    <!-- quiz questions form -->
+    <main id="triviaQuestions" class="block">
+      <form id="form"></form>
+
+<!-- timer -->
+      <h3>TIMER: <span id="timer">20</span></h3>
+
+
+
+<!-- submit button -->
+    <button type="submit" form="form" id="triviaSubmit">Submit</button>
+    </main>
+
+
+
+    <!-- scores -->
+    <div id="triviaResults" class="block">
+      <ul>
+        <ol>Correct Answers: <span id="right">0</span></ol>
+        <ol>Incorrect Answers: <span id="wrong">0</span></ol>
+        <ol>Incomplete: <span id="blank">0</span></ol>
+      </ul>
+    </div>
+  </div>
+
+<script
+    src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous"></script>
+<script type="text/javascript" src="game.js"></script>
+    
+   
+</body>
+</html>
