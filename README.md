@@ -1,6 +1,6 @@
 # Power Puff Girls Timed Multiple Choice Game
 
-In this assignment, LIRI was created. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. LIRI will search Spotify for songs, and OMDB for movies.
+Deployed Game Site: https://jovanaescobar.github.io/power-puff-girls-game/
 
 
 1. Players will have 20 seconds to answer four questions related to the Power Puff Girls
